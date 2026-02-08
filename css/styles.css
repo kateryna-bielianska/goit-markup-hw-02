@@ -71,6 +71,7 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
 background-color:  #4d5ae5;
+cursor: pointer;
 }
 
 .hero-button:hover,
